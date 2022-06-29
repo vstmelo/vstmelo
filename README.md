@@ -14,7 +14,7 @@
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-  ### I like to work with these technologies
+  ### I like to work with these techs, but I'm always open to new tech to learn
 
 - <h6 color="white">Always trying to make right, functional and the best WORK .</h6>
 
